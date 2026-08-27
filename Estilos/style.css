@@ -1,0 +1,21 @@
+/* Modifica el cuerpo de la página */
+body {
+    background-color: #f3f4f6; /* Fondo gris muy claro */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+    margin: 0;
+}
+
+/* Modifica el título principal */
+h1 {
+    color: #4f46e5;            /* Color morado/índigo */
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Modifica el párrafo */
+p {
+    color: #4b5563;            /* Texto gris oscuro */
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
